@@ -20,3 +20,5 @@ If you are reading this, creator (your name has been omitted out of respect for 
 
 ## 🛠️ Project Integrity
 This repository is strictly a **code archive**. This project is not "skidded" or plagiarized; it is preserved purely for historical and educational reference.
+
+||AFTER YOU READ: (https://github.com/shann-git-lol/Yatta-s-Crazy-GUI-Archival-Edition-1.0/blob/main/READ%22readme.md%22first.lua)[YCGui]||
