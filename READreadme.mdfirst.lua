@@ -33,12 +33,7 @@ setclipboard("https://github.com/shann-git-lol/Yatta-s-Crazy-GUI-Archival-Editio
 
 
 
-
-
-
-
---[[ .src 
-Yatta's Crazy GUI – 1.0 Archival Edition—By no means, may you use this version to gain profit or any other.
+--[[ Yatta's Crazy GUI – 1.0 Archival Edition—By no means, may you use this version to gain profit or any other.
 The Creator, "" doesn't want to keep talking about this version. Since the creator had something, he is planning to redo / recode YCGui entirely.
 If you are reading this creator (thou name will not be sent due to the owner possibly not liking this), thank you for taking the situation greatly.
 Please do not harass the owner, nor inflict harm opon thee.
@@ -495,20 +490,20 @@ local subtitleIdx = 1
 local SCRIPTS_DATA = {
     {
         textName = "Boxten Gender GUI",
-        code = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/bookworming/bookshelf/refs/heads/main/shelf%203/boxten%20sex%20gui.lua"))()]],
---[[    },
+        code = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/bookworming/bookshelf/refs/heads/main/shelf%203/boxten%20sex%20gui.lua"))()]]--[[,
+    --[[},
     {
         textName = "Riddance Hub!",
-        code = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/bookworming/bookshelf/refs/heads/main/shelf%203/glisten's%20strip%20club.lua"))()]],
+        code = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/bookworming/bookshelf/refs/heads/main/shelf%203/glisten's%20strip%20club.lua"))()]]--[[,
     --[[},
     {
         textName = "Glisten's Club!",
         code = [[getgenv().element_load_delay = 0.1 -- seconds
-loadstring(game:HttpGet("https://raw.githubusercontent.com/riddance-club/script/refs/heads/main/loader.lua"))()]],
-    },
-    --[[{
+loadstring(game:HttpGet("https://raw.githubusercontent.com/riddance-club/script/refs/heads/main/loader.lua"))()]]--[[,
+    --[[},
+    {
         textName = "Infinite Yield!",
-        code = [[loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()]],
+        code = [[loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()]]--[[,
     --[[},
 }
 
@@ -5252,6 +5247,5 @@ print([[ Yatta's Crazy GUI – 1.0 Archival Edition—By no means, may you use t
 The Creator, "" doesn't want to keep talking about this version. Since the creator had something, he is planning to redo / recode YCGui entirely.
 If you are reading this creator (thou name will not be sent due to the owner possibly not liking this), thank you for taking the situation greatly.
 Please do not harass the owner, nor inflict harm opon thee.
-THIS IS NOT SKIDDED, THIS IS A CODE ARCHIVE]])
+THIS IS NOT SKIDDED, THIS IS A CODE ARCHIVE]]
 
-]]
